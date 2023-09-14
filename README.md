@@ -1,5 +1,5 @@
 ### Hi, I'm Priyadarshini! 👋
-Enthusiastic professional with expertise in business analytics, marketing, and computer science. Seeking opportunities to apply data analysis, visualization, and machine learning skills in a dynamic work environment that encourages innovation and continuous learning. Eager to contribute to the company's vision and goals while expanding my own capabilities.
+An enthusiastic professional with expertise in business analytics, marketing, and computer science. Seeking opportunities to apply data analysis, visualization, and machine learning skills in a dynamic work environment that encourages innovation and continuous learning. Eager to contribute to the company's vision and goals while expanding my own capabilities.
 
 🌱 I’m currently doing Master Business Analytics and Digital Marketing Combined Program, GUVI, an IITM Incubated Company, Online.
 
