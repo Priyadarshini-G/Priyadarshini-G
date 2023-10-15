@@ -1,5 +1,5 @@
 ### Hi, I'm Priyadarshini! 👋
-Results-driven professional with expertise in data analysis, visualization, and strategy development. Proficient in various technical tools and platforms, including Tableau, Power BI, SQL, and Python. Proven track record of optimizing business performance through data-driven solutions. Skilled in project management, problem-solving, and effective communication.
+Detail-oriented Business Analyst with expertise in data analysis, visualization, and strategy development. Proficient in various technical tools and platforms, including Tableau, Power BI, SQL, and Python. Proven track record of optimizing business performance through data-driven solutions. Skilled in project management, problem-solving, and effective communication.
 
 🌱 I’m currently doing Master Business Analytics and Digital Marketing Combined Program, GUVI, an IITM Incubated Company, Online.
 
